@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "description": "A number guessing game",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Number Guesser Game",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "gusserGame",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "games"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": []
+}
