@@ -9,7 +9,6 @@
    function play(){ 
        var user_guess = document.getElementById("guess").value;
        if(user_guess < 1 || user_guess > 15){
-        //    alert("Please enter a number between 1 and 15.");
             msg1.textContent = "Please enter a number between 1 and 15.😪";
        }
        else{
