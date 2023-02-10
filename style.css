@@ -23,6 +23,7 @@ body{
   display: grid;
   justify-items: center;
   font-family: 'Poppins',sans-serif;
+  height: 80vh;
 }
 .heading{
   background: rgb(10, 56, 110);
