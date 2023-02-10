@@ -36,6 +36,3 @@
         }
     }
 
-    function clear(){
-        location.reload();
-    }
