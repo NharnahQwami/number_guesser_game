@@ -18,7 +18,7 @@ body{
   top: 50%;
   left: 50%;
   background-color: #ffffff;
-  padding: 50px 10px;
+  padding: 50px 10px 20px 10px;
   border-radius: 5px;
   display: grid;
   justify-items: center;
@@ -64,6 +64,18 @@ button{
   padding: 10px 0;
   border-radius: 5px;
   background-color: #1353d0;
+  color: #ffffff;
+  border: none;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 30px;
+  outline: none;
+}
+#btn{
+  width: 160px;
+  padding: 10px 0;
+  border-radius: 5px;
+  background-color: rgb(107, 167, 236);
   color: #ffffff;
   border: none;
   font-size: 18px;
