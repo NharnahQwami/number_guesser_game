@@ -61,7 +61,7 @@ input[type="text"]::placeholder{
 }
 button{
   width: 160px;
-  padding: 15px 0;
+  padding: 10px 0;
   border-radius: 5px;
   background-color: #1353d0;
   color: #ffffff;
