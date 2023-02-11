@@ -3,14 +3,16 @@
   "name": "Number Guesser app",
   "short_name": "Number Guesser",
   "description": "A simple game where you are required to guess the number the computer has, with clues to help you achive this.",
-  "start_url": "/",
+  "scope": "/number_guesser_game/", 
+  "start_url": "/number_guesser_game/",
   "background_color": "#2f3d58",
   "theme_color": "#2f3d58",
   "orientation": "any",
   "display": "standalone",
   "icons": [
       {
-          "src": "/icon512.png",
+          "src": "/number_guesser_game/icon512.png",
+          "type": "image/png",
           "sizes": "512x512"
       }
   ]
