@@ -25,3 +25,5 @@ This workshop covers the following topics :
 3. How to create your own PWA and install on Windows - Hands-on session
 4. Introduction to the Windows Insider Program
 5. Introduction to the Microsoft Learn Student Program
+
+Watch the workshop [here](https://stdntpartners-my.sharepoint.com/:v:/g/personal/simran_sharma_studentambassadors_com/EfKJVwFJrY9ElH2JHXXWlg0BvVA9xikmwbQHWIhyrgdvdg)
